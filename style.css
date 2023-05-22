@@ -1,0 +1,126 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2em;
+}
+.home{
+    margin-left: 1.5em;
+    color: gray;
+}
+.div-in-navbar{
+    display: flex;
+    flex-direction: row;
+    margin-right: 3em;
+}
+.login{
+    margin-right: 1em;
+    color: gray;
+}
+.botao{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border-style: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.another-div-in-navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 4em;
+}
+.main-div-images{
+    display: inline-flex;
+}
+.img-map{
+    margin-left: 6.3em;
+    width: 16em;
+    height: 22em;
+    padding: 2.5em;
+    border: 1px solid black;
+    border-color: rgb(213, 211, 211);
+    border-radius: 2px;
+}
+.div-image-mount-ulap{
+    margin-left: 3.5em;
+    border: 1px solid rgb(213, 211, 211);
+    margin-right: 5em;
+    height: 37em;
+}
+.img-mount-ulap{
+    width: 90%;
+    height: 23em;
+    padding: 2.5em;
+}
+.title-and-price{
+    margin-top: -3em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.title-mount-ulap{
+    margin-left: 2em;
+}
+.price{
+    margin-right: 2.5em;
+}
+.txt-descrition{
+    font-size: 13px;
+    color: gray;
+    margin-left: 3em;
+    margin-right: 4em;
+}
+.submitted-text{
+   color: gray;
+   margin-left: 2.4em;
+}
+.comments-box{
+    display: flex;
+    flex-direction: column;
+    width: 30.1em;
+    margin-top: 2em;
+    margin-right: 4.8em;
+    float: right;
+    border: 1px solid rgb(213, 211, 211);
+    height: 31em;
+    border-bottom: 1px solid gray;
+}
+.comment{
+    font-size: 12px;
+    margin-right: 3em;
+    margin-left: 3em;
+    margin-top: 1em;
+    border-bottom: 1px solid rgb(213, 211, 211);
+    height: 10em;
+}
+.txt-comments{
+    margin-top: -1em;
+    color: gray;
+}
+.time{
+    float: right;
+    margin-top: -2.7em;
+    color: gray;
+}
+.btn-comments{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    width: 12em;
+    margin-top: 2em;
+    margin-left: 23em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    border-style: none;
+}
+.final{
+    margin-top: 45%;
+    margin-left: 10em;
+    padding-bottom: 4em;  
+}
