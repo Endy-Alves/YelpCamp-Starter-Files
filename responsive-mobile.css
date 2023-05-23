@@ -69,7 +69,7 @@
     }
     label .menu {
         position: absolute !important;
-        right: 20px !important;
+        left: 90% !important;
         top: -100px !important;
         z-index: 100 !important;
         width: 20px !important;
