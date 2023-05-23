@@ -3,6 +3,7 @@
     .navbar{
         display: flex;
         flex-wrap: wrap;
+        width: 100%;
     }
     .main-div-images{
         display: flex;
@@ -69,7 +70,7 @@
     }
     label .menu {
         position: absolute !important;
-        left: 95% !important;
+        left: 90% !important;
         top: -100px !important;
         z-index: 100 !important;
         width: 20px !important;
